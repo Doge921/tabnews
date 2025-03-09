@@ -1,4 +1,4 @@
 function Home () {
-    return <>Dogival Souza e Maira Mariano</>
+    return <>Dogival Souza</>
 }
 export default Home;
